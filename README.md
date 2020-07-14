@@ -27,4 +27,4 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
-[![Darsh's github stats](https://github-readme-stats.vercel.app/api?username=iamdarshshah&show_icons=true&line_height=30&title_color=3d3d3d&text_color=727272&icon_color=048a81&hide=[%22issues%22,%20%22stars%22])](https://github.com/iamdarshshah)
+[![Darsh's github stats](https://github-readme-stats.vercel.app/api?username=iamdarshshah&show_icons=true&line_height=30&title_color=3d3d3d&text_color=727272&icon_color=048a81&hide_rank=true&hide=[%22issues%22,%20%22stars%22])](https://github.com/iamdarshshah)
