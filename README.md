@@ -2,14 +2,14 @@
 
 📌 _Here are a few things that describe me:_
 
-- 💼 I'm currently working full-time at [Upforce Tech](https://www.upforcetech.com/) as a Frontend developer
-- 🔖 Currently working on a project, will OpenSource soon (no timeline though 😜)
-- 🔭 Personal goal ─ spend more time working on OSS
-- 💻 I spend most of my time writing JavaScript on both the front-end and back-end
-- 💬 Ask me about anything, I'll be happy to help
-- 📫 _How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/iamdarshshah/) | [Email](mailto:imdarshshah@gmail.com) | [Website](https://darshshah.me) 🚀
-- 😄 _Pronouns:_ he/him
-- ⚡ _Fun fact:_ I ❤️ what I am doing!!😄
+- 💼 &nbsp;I'm currently working full-time at [Upforce Tech](https://www.upforcetech.com/) as a Frontend developer
+- 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
+- 🔭 &nbsp;Personal goal ─ spend more time working on OSS
+- 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
+- 💬 &nbsp;Ask me about anything, I'll be happy to help
+- 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/iamdarshshah/) | [Email](mailto:imdarshshah@gmail.com) | [Website](https://darshshah.me) 🚀
+- 😄 &nbsp;_Pronouns:_ he/him
+- ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
 
 ### 📦 Languages and Tools: 
 
@@ -26,3 +26,4 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+
