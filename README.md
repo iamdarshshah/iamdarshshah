@@ -26,4 +26,10 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<br />
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamdarshshah&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
+</details>
+
 
