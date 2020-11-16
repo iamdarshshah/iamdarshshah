@@ -13,6 +13,8 @@
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey-ckhjho0h702ag8vs1elueeh7r)
+- [Object.freeze() in JavaScript](https://iamdarshshah.hashnode.dev/objectfreeze-in-javascript-ckhf8k0we07vd0js19zqbdp21)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📦 Languages and Tools: 
