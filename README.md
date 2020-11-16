@@ -11,7 +11,7 @@
 - 😄 &nbsp;_Pronouns:_ he/him
 - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
 
-# 📩 Latest Blog Posts
+### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
