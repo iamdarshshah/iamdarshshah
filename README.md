@@ -13,11 +13,11 @@
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top VS Code Extensions Every Developer Should Use 🛠](https://dev.to/iamdarshshah/top-vs-code-extensions-every-developer-should-use-1man)
 - [JavaScript console API](https://dev.to/iamdarshshah/javascript-console-api-8o9)
 - [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://dev.to/iamdarshshah/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions-2k2h)
 - [Start Documenting your Journey ✍️](https://dev.to/iamdarshshah/start-documenting-your-journey-ohf)
 - [Object.freeze() in JavaScript](https://dev.to/iamdarshshah/object-freeze-in-javascript-4pki)
-- [Graduation Day 🎓](https://dev.to/iamdarshshah/git-remote-graduation-noa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📦 Languages and Tools: 
