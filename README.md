@@ -6,6 +6,7 @@
 - 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
 - 🔭 &nbsp;Personal goal ─ spend more time working on OSS
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
+- 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
 - 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/iamdarshshah/) | [Email](mailto:imdarshshah@gmail.com) | [Website](https://darshshah.me) 🚀
 - 😄 &nbsp;_Pronouns:_ he/him
