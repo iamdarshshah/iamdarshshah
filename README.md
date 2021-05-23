@@ -8,7 +8,7 @@
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
 - 🌱 &nbsp;I’m currently learning TypeScript
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
-- 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/iamdarshshah/) | [Email](mailto:imdarshshah@gmail.com) | [Website](https://darshshah.me) 🚀
+- 📫 &nbsp;_How to reach me:_ [Twitter](https://twitter.com/iamdarshshah) | [Linkedin](https://www.linkedin.com/in/iamdarshshah/) | [Email](mailto:imdarshshah@gmail.com) 🚀
 - 😄 &nbsp;_Pronouns:_ he/him
 - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
 
