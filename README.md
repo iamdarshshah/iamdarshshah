@@ -2,7 +2,7 @@
 
 📌 _Here are a few things that describe me:_
 
-- 💼 &nbsp;I'm currently working full-time at [Upforce Tech](https://www.upforcetech.com/) as a Frontend developer
+- 💼 &nbsp;I'm currently working full-time at [GEVME](https://www.gevme.com/en/) as a Software Engineer
 - 🔖 &nbsp;Currently working on a project, will OpenSource soon (no timeline though 😜)
 - 🔭 &nbsp;Personal goal ─ spend more time working on OSS
 - 💻 &nbsp;I spend most of my time writing JavaScript on both the front-end and back-end
