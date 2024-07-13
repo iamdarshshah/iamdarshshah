@@ -44,4 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iamdarshshah&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
 </details>
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/iamdarshshah?style=social)](https://peerlist.io/iamdarshshah)
+
 
